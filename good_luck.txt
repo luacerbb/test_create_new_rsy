@@ -1,3 +1,4 @@
 ﻿1. 测试修改远程文件
 2.test eng
 3.push local modify
+4.test pull
